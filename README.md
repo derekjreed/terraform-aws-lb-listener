@@ -1,2 +1,2 @@
 # terraform-aws-lb-listener
-terraform aws lb listener code
+Basic terraform module for aws lb listener (v 0.12)
